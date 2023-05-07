@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.customExtraPaths": "/Users/sroa/.espressif/tools/xtensa-esp-elf-gdb/11.2_20220823/xtensa-esp-elf-gdb/bin:/Users/sroa/.espressif/tools/riscv32-esp-elf-gdb/11.2_20220823/riscv32-esp-elf-gdb/bin:/Users/sroa/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin:/Users/sroa/.espressif/tools/xtensa-esp32s2-elf/esp-2022r1-11.2.0/xtensa-esp32s2-elf/bin:/Users/sroa/.espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin:/Users/sroa/.espressif/tools/riscv32-esp-elf/esp-2022r1-11.2.0/riscv32-esp-elf/bin:/Users/sroa/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/sroa/.espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/sroa/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/bin:/Users/sroa/.espressif/tools/ninja/1.10.2:/Users/sroa/.espressif/tools/esp-rom-elfs/20220823",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "/Users/sroa/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+    "ESP_ROM_ELF_DIR": "/Users/sroa/.espressif/tools/esp-rom-elfs/20220823/"
+  },
+  "idf.espIdfPath": "/Users/sroa/esp/esp-idf",
+  "idf.openOcdConfigs": ["board/esp32-wrover-kit-3.3v.cfg"],
+  "idf.port": "/dev/cu.SLAB_USBtoUART",
+  "idf.pythonBinPath": "/Users/sroa/.espressif/python_env/idf5.0_py3.9_env/bin/python",
+  "idf.toolsPath": "/Users/sroa/.espressif",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "gpio.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "timers.h": "c"
+  }
+}
